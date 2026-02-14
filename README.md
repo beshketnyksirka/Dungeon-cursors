@@ -1,4 +1,4 @@
-# ***Dungeon cursors*** 
+# ***Dungeon cursors***
 
 <a href="https://github.com/beshketnyksirka/Dungeon-cursors" title="Go to GitHub repo">
   <img src="https://img.shields.io/static/v1?label=beshketnyksirka&message=Dungeon-cursors&color=purple&logo=github" alt="beshketnyksirka - Dungeon-cursors">
