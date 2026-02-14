@@ -14,9 +14,9 @@ You can install this cursors on Linux (put to .icons folder) and Windows (instal
 
 ***Download:***
 -----------
-[Dungeon Linux](https://github.com/beshketnyksirka/Heroes-of-Might-and-Magic-3-Complete/releases/tag/GOG)
+[Dungeon Linux](https://github.com/beshketnyksirka/Dungeon-cursors/releases/tag/Cursors)
 
-[Dungeon Windows](https://github.com/beshketnyksirka/Heroes-of-Might-and-Magic-3-Complete/releases/tag/HD_MOD)
+[Dungeon Windows](https://github.com/beshketnyksirka/Dungeon-cursors/releases/tag/Cursors)
 
 ***License***
 -----------
