@@ -14,9 +14,9 @@ You can install this cursors on Linux (put to .icons folder) and Windows (instal
 
 ***Download:***
 -----------
-[Dungeon Linux](https://github.com/beshketnyksirka/Dungeon-cursors/releases/tag/Cursors)
-
-[Dungeon Windows](https://github.com/beshketnyksirka/Dungeon-cursors/releases/tag/Cursors)
+<a href="https://github.com/beshketnyksirka/Dungeon-cursors/releases/tag/Cursors" title="Download">
+  <img src="https://img.shields.io/badge/%20Download%20-32C24D" alt="Download">
+</a>
 
 ***License***
 -----------
